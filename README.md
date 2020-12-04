@@ -11,4 +11,5 @@ Dependencies:
 The dataset used is  ml-100K provided by GroupLens tm. Surprise library has this dataset inbuilt in it and it is imported from there. However, it is also provided separately if needed.
 
 To install surprise library run the follwing command in anaconda powershell prompt:
+
 conda install -c conda-forge scikit-surprise
